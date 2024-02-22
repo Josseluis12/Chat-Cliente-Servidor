@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Esta aplicación de chat, desarrollada completamente en Java, ofrece una plataforma robusta y versátil para la comunicación en tiempo real entre usuarios a través de una interfaz gráfica amigable. Diseñada con el objetivo de facilitar la interacción en grupos o de manera privada, la aplicación soporta una amplia gama de funcionalidades diseñadas para mejorar la experiencia de chat.
+Esta aplicación de chat, desarrollada completamente en Java, ofrece una plataforma para la comunicación en tiempo real entre usuarios a través de una interfaz gráfica amigable. Diseñada con el objetivo de facilitar la interacción en grupos o de manera privada, la aplicación soporta una amplia gama de funcionalidades diseñadas para mejorar la experiencia de chat.
 
 ## Características
 
